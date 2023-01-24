@@ -38,12 +38,12 @@ p span {
   font-size: 15px;
   line-height: 22px;
   margin: 64px auto ;
-  color: #3f3d56;
 }
 
 #footer a {
   text-decoration: none;
   margin: 64px 42px 40px 42px;
+  color: #3f3d56;
 }
 
 #wave {

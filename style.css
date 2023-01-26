@@ -37,7 +37,7 @@ p span {
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
   line-height: 22px;
-  margin: 64px auto ;
+  margin: 64px auto;
 }
 
 #footer a {
@@ -47,6 +47,9 @@ p span {
 }
 
 #wave {
-  width: 100%;
-  height: auto;
+  position: absolute;
+  width: 1920px;
+  height: 104px;
+  left: 0;
+  bottom: 0px;
 }

@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto 01 é uma criação de uma Landing-Page básica para aplicar o conhecimendo básico do HTML e CSS.
+O projeto é a Recriação do layout de uma aplicação, uma Landing-Page básica para aplicar o conhecimento básico do HTML e CSS.
 
 - [Visite o projeto online](https://lucasrsillva2000.github.io/Projeto-01-explorer-desafio02/)
 

@@ -47,9 +47,8 @@ p span {
 }
 
 #wave {
-  position: absolute;
-  width: 1920px;
-  height: 104px;
+  position: fixed;
+  bottom: 0;
   left: 0;
-  bottom: 0px;
+  width: 100%;
 }
